@@ -46,7 +46,7 @@ const Header = () => {
 		<>
 			<header>
 				<div className="banner">
-					<p className="heading">This is Shivam Garg, welcome to my site</p>
+					<p className="heading">This is Shivam Garg</p>
 					<p className="sub-heading">I am a {words[index].substring(0, subIndex)}<span className="block-cur">|</span></p>
 					{/* <div className="sample-text-1 sub-heading" id='displayy'>{words[index]}</div> to be used in main headings*/}
 				</div>
