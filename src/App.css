@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Orbitron:wght@400;500;600&family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;1,200;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 .App {
   text-align: center;
+  scroll-behavior: smooth;
 }
 
 .App-logo {
